@@ -46,7 +46,7 @@ EvacNow provides actionable evacuation intelligence through a modern UI and smar
 git clone https://github.com/sfnkh/EVACNOW.git
 
 # Navigate into the project directory
-cd EvacNow
+cd EVACNOW
 
 # Install dependencies
 npm install
