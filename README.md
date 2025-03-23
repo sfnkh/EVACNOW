@@ -43,7 +43,7 @@ EvacNow provides actionable evacuation intelligence through a modern UI and smar
 
 ```bash
 # Clone the repository
-git clone https://github.com/sfnkh/EvacNow.git
+git clone https://github.com/sfnkh/EVACNOW.git
 
 # Navigate into the project directory
 cd EvacNow
